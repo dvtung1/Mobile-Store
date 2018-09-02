@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+.header {
+	background-color: #ECEAEE;
+	text-align: left;
+	font-size: 18px;
+	padding: 8vw;
+	margin-bottom: 2vw;
+}
+
+.header h1 {
+	font-size: 44px;
+}
+
+.description {
+    height: 80px;
+}

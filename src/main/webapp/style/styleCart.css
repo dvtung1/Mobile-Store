@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+.header{
+	background-color: #ECEAEE;
+	text-align: left;
+	font-size: 18px;
+	padding: 8vw;
+	margin-bottom: 2vw;
+}
+
+.header h1{
+	font-size: 44px;
+}
+
+
+table{
+	text-align: left;
+	width: 100%;
+}
+
+th, td {
+	padding: 2vw;
+	border-bottom: 1px solid #ddd;
+}
+
+#grandTotal{
+	position: relative;
+	left: 70%;
+}

@@ -1,0 +1,1 @@
+<jsp:forward page="viewProduct.do"></jsp:forward>
